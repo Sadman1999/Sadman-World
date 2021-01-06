@@ -1,6 +1,6 @@
 body{
+    margin: 0%;
     font-family: 'Roboto', sans-serif;
-    background-color: rgba(210, 247, 247, 0.788);
 }
 h1{
     font-size: 50px;
@@ -8,37 +8,83 @@ h1{
 .intru{
     color: gold;
 }
-.dot{
-    color: indigo;
-}
-.fast{
-    color:purple;
-    font-size: 70px;
-}
-.second{
-    color:blue;
-}
 .half-width{
     width: 40%;
     float: left;
-    margin-left: 3%;
-    padding-left: 1%;
+    margin-left: 2%;
+    padding-left: 2%;
 }
 .half-width img{
     width: 100%;
 }
-.pic-area img{
-    width: 100%;
+.second{
+    color: blue;
 }
-.pic area{
-    width: 40%;
-    float:right;
+.link-button{
+    text-decoration: none;
+    background-color: chartreuse;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: darkblue;
+    font-weight: 700;
 }
-.top-banner{
-    border: 1px solid gold;
-    background-color: rgba(210, 247, 247, 0.788);
-    
+.third{
+    color:darkred;
+    font-weight: 900;
+}
+.fourth{
+    color: goldenrod;
+    font-weight: 800;
 }
 section{
-    height: 550px;
+    height: 500px;
+    padding-bottom: 150px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+.coloring{
+    color: fuchsia;
+}
+.ano{
+    color: gold;
+    float:inherit;
+}
+.adiyat{
+    color: orangered;
+}
+.moni{
+    color:yellowgreen;
+}
+h1{
+    text-align: center;
+}
+.experince-area img{
+    float: left;
+    width: 100%;
+}
+.monir img{
+    float: left;
+    width: 50%;
+}
+.abi{
+    color: gold;
+}
+.abi{
+    background-image: url("images/toto.png");
+    background-repeat: no-repeat;
+    background-position:center;
+}
+.dodo{
+    text-align: center;
+}
+.ado img{
+    width: 2%;
+    background-position: center;
+}
+#fooooter{
+    background-position: center;
 }
